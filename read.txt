@@ -1,1 +1,2 @@
 Hello, I'm using vim.
+Hello, I'm back!
